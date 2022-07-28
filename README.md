@@ -1,5 +1,6 @@
 # Run
 
+Set your envrionment settings
 ```
-python mail.py
+MAIL_FROM=fred@example.com MAIL_HOST=email.example.com ..etc python mail.py
 ```
